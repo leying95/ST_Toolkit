@@ -2,8 +2,8 @@
 
 # @Author: LiuXing liuxing2@genomics.cn 
 # @Date: 2020-12-03 11:00:53 
-# @Last Modified by: Leying Wang
-# @Last Modified time: 2021-08-12 11:41:39
+# @Last Modified by: LiuXing
+# @Last Modified time: 2020-12-03 14:27:11
  
 
 import os, sys
